@@ -15,6 +15,29 @@ Here is a quick look at the interactive Power BI dashboard created for this proj
 
 ---
 
+## 🗄️ SQL Queries & Analysis
+
+This project also includes SQL-based analysis for understanding the dataset structure, solving business problems, and validating insights.
+
+### 📌 ERD / Schema
+The schema used in this project is available in the `Schemas.sql` file.
+
+### 📌 Business Problem Queries  
+Below are previews of the SQL queries used in the project:
+
+#### **Query 1**
+![SQL Query 1](SQL/Query%20.png)
+
+#### **Query 2**
+![SQL Query 2](SQL/Query%202.png)
+
+You can find the full SQL scripts here:
+- `Business Problems.sql`  
+- `Business Problems Solutions.sql`  
+- `Schemas.sql`
+
+---
+
 ## 🔍 Business Objectives
 
 1. Understand Blinkit’s overall sales performance: total sales volume, average sale per transaction, and number of items.
