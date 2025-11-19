@@ -56,13 +56,30 @@ You can find the full SQL scripts here:
 ## 📂 Project Structure
 
 ```
-.
-├── BlinkIT Grocery Data.csv         # Raw dataset  
-├── SQL/                             # SQL queries & scripts  
-├── Python/                          # Data cleaning, EDA & analysis notebooks  
-├── Power BI/                        # Power BI report files (.pbix)  
-├── Images/                          # Screenshots, charts, dashboards  
-└── Blinkit Analysis.pptx            # Presentation of findings & recommendations  
+Blinkit-Sales-Analysis-Capstone-Project/
+│
+├── BlinkIT Grocery Data.csv
+│
+├── SQL/
+│   ├── Business Problems.sql
+│   ├── Business Problems Solutions.sql
+│   ├── Schemas.sql
+│   ├── Query .png
+│   └── Query 2.png
+│
+├── Power BI/
+│   ├── Blinkit.pbix
+│   ├── Dashboard.png
+│   └── Recording.mp4
+│
+├── Python/
+│   ├── (Your Python notebooks/scripts here)
+│
+├── Images/
+│   ├── (Dashboard screenshots / visualizations)
+│
+└── Blinkit Analysis.pptx
+ 
 ```
 
 ---
