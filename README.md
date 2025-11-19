@@ -6,6 +6,15 @@ This project performs a comprehensive sales analysis of Blinkit (a quick-commerc
 
 ---
 
+## 📸 Dashboard Preview
+
+Here is a quick look at the interactive Power BI dashboard created for this project:
+
+![Blinkit Dashboard](Power%20BI/Dashboard.png)
+
+
+---
+
 ## 🔍 Business Objectives
 
 1. Understand Blinkit’s overall sales performance: total sales volume, average sale per transaction, and number of items.
