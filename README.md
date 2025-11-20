@@ -38,6 +38,7 @@ You can find the full SQL scripts here:
 
 ---
 
+
 ## 🔍 Business Objectives
 
 1. Understand Blinkit’s overall sales performance: total sales volume, average sale per transaction, and number of items.
