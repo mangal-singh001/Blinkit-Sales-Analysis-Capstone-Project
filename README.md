@@ -54,6 +54,7 @@ You can find the full SQL scripts here:
 
 ---
 
+
 ## 📂 Project Structure
 
 ```
