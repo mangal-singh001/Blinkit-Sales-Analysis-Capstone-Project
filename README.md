@@ -12,7 +12,6 @@ Here is a quick look at the interactive Power BI dashboard created for this proj
 
 ![Blinkit Dashboard](Power%20BI/Dashboard.png)
 
-
 ---
 
 ## 🗄️ SQL Queries & Analysis
